@@ -1,0 +1,16 @@
+{
+  "name": "truffle-debug-reproduce",
+  "version": "1.0.0",
+  "description": "### Dependencies",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
